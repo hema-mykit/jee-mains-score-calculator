@@ -1,0 +1,27 @@
+h1 {
+    font-size: 26px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+
+  h6 {
+    margin-bottom: 16px
+  }
+  
+  img {
+  height: 60px;
+  }
+
+  button {
+    margin-top: 5px
+  }
+
+  .card-footer a {
+    margin-top:5px;
+    text-align:center;
+    text-decoration:underline;    
+  }
+
+  .alert {
+    margin-top: 15px;
+  }
